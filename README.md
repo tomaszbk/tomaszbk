@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kukelia
+- 👋 Hi, I’m Tomas!
 - 👀 I’m interested in Data Engineering, Machine learning, and Backend Web Development
 
 <!---
