@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomas!
-- 👀 I’m interested in Data Engineering, Cloud Computing and IOT
+- 👀 I’m interested in Data Engineering, Cloud Computing and IoT
 
 <!---
 kukelia/kukelia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
