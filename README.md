@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomas!
-- 👀 I’m interested in Data Engineering, Cloud Computing and IoT
+- 👀 My projects are uploaded here!
 - My portfolio: https://tomaszbk.github.io/
 
 <!---
